@@ -24,7 +24,7 @@ class MultiShower extends StatelessWidget {
     var li = <Widget>[];
     for (var i = 0; i < list.length; i++) {
       var child = Container(
-          margin: EdgeInsets.all(8),
+          margin: EdgeInsets.all(10),
           color: color,
           width: width,
           height: height,
